@@ -1,7 +1,5 @@
 
 Name  : Saumitra Natu
-Email : snatu1@binghamton.edu
-B-number : B00767519
 
 Assignment no 1 : Creating and Destroying a Process Hierarchy.
 
